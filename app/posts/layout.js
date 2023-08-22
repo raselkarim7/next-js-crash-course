@@ -1,7 +1,7 @@
 import React from 'react'
 
 const PostsLayout = ({children}) => {
-  return <div>Navigage to the top {children}</div>
+  return <div>PostsLayout {children}</div>
 }
 
 export default PostsLayout
