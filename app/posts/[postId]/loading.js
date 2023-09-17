@@ -1,13 +1,13 @@
 import React from 'react';
 
-const Dloading = () => {
+const SinglePostIdloading = () => {
     console.log('dynamic post id loading...')
     // https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming#instant-loading-states
     return (
         <div>
-            Dynamic loading...
+            SinglePostIdloading loading...
         </div>
     );
 };
 
-export default Dloading;
+export default SinglePostIdloading;
