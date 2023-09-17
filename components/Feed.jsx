@@ -1,11 +1,11 @@
 import React from 'react';
 
-const PostsPage = () => {
+const Feed = () => {
     return (
         <div>
-          Only Post Page  
+            Feed 
         </div>
     );
 };
 
-export default PostsPage;
+export default Feed;
